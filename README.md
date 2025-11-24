@@ -1,4 +1,4 @@
-# CV-Stephany-Gonzalez
+# interactive-CV-Stephany-Gonzalez
 
 # Hello and welcome!
 
